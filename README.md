@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+You can view the working website here https://marby-gpt3.online/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
